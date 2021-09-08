@@ -58,7 +58,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/pop_rec"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_margin="5dp" />
 
         <LinearLayout
@@ -95,7 +95,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/explore_rec"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_margin="5dp" />
 
         <LinearLayout
@@ -132,7 +132,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recommended_rec"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_margin="5dp" />
     </LinearLayout>
 

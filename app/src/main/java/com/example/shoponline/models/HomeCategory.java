@@ -1,9 +1,9 @@
 package com.example.shoponline.models;
 
 public class HomeCategory {
-    String name;
-    String type;
-    String img_url;
+    private String name;
+    private String type;
+    private String img_url;
 
     public HomeCategory() {
     }

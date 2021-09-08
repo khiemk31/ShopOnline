@@ -1,12 +1,12 @@
 package com.example.shoponline.models;
 
 public class PopularModel {
-    String name;
-    String description;
-    String rating;
-    String discount;
-    String type;
-    String img_url;
+    private String name;
+    private String description;
+    private String rating;
+    private String discount;
+    private String type;
+    private String img_url;
 
     public PopularModel() {
     }

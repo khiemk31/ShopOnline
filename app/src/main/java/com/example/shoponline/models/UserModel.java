@@ -1,7 +1,7 @@
 package com.example.shoponline.models;
 
 public class UserModel {
-    String name,email,passord;
+    private String name, email, passord;
 
     public UserModel() {
     }
